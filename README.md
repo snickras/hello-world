@@ -21,21 +21,21 @@
 <TD ALIGN=center BGCOLOR=yellow COLSPAN=2><B><FONT SIZE=+1 COLOR=navy>European Cities</FONT></B>
 </TR>
 
-<TR ALIGN=center>
+<TR ALIGN=left>
 <TD><B>Seattle</B>
 <TD><B>Cleveland</B>
 <TD><B>London</B>
 <TD><B>Paris</B>
 </TR>
 
-<TR ALIGN=center>
+<TR ALIGN=left>
 <TD><B>Houston</B>
 <TD><B>Boston</B>
 <TD><B>Geneva</B>
 <TD><B>Madrid</B>
 </TR>
 
-<TR ALIGN=center>
+<TR ALIGN=left>
 <TD><B>Chicago</B>
 <TD><B>Atlanta</B>
 <TD><B>Brussels</B>
